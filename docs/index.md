@@ -12,3 +12,4 @@ comandos/mkdocs
 comandos/source
 comandos/sudo
 comandos/ssh
+comandos/touch
